@@ -1,4 +1,4 @@
-### HeldKarp for TSP
+### solve TSP using HeldKarp
 
 > 
 
@@ -7,7 +7,7 @@
 **📁 Repository Structure**
 
 ```
-HeldKarp-for-TSP/
+solve-TSP-using-HeldKarp/
 ├─ hk_native.pyx    # Cython source 
 ├─ setup.py         # Cython builder
 └─ solver.py        # main solver
